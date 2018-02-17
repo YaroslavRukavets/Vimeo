@@ -1,7 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe02856b-2826-49d9-bd41-54ef7c878d21" name="Default" comment="" />
+    <list default="true" id="fe02856b-2826-49d9-bd41-54ef7c878d21" name="Default" comment="Added gulp files.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/167f9dbd-7f63-46fb-8c3f-d28aeec0a7bb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/2000px-Vimeo_Logo-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/665715143_390x220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/666669193_390x220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/667734745_390x220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/667879628_390x220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/667912675_390x220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/Player-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/Vimeo450.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/advertising.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/balloon_back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/balloon_front_opt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/black-gmail-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/drop-down-arrow-01-512.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/dune.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/pancils.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/snow-ass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/bSitemap-small.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/bSitemap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/bVideo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/cBest-video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/cFooter-sitemap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/cVideo-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Additional-info.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Best-video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Discover-wrapper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Footer-sitemap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Points.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Sitemap-small.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Sitemap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Stats-dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Tools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Universal-button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Video-list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/Video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bButtonAction.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bButtons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bCreator-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bCreator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bFuture-list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bLogo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bMulticolor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bSearch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/bTop-navigation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/intro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/styles/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bAdditional-info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bCreator-footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bCreator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bDiscover-wrapper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bFuturelist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bLogo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bMulticolor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bPoints.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bSearch-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bStats-dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bTop-navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bUniversal-button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cIntro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cTools.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/665715143_390x220.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/666669193_390x220.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/667734745_390x220.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/667879628_390x220.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/667912675_390x220.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7619060_640x640" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Layout.mustache" afterPath="$PROJECT_DIR$/docs/Layout.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bAdditional-info.mustache" afterPath="$PROJECT_DIR$/docs/bAdditional-info.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bCreator-footer.mustache" afterPath="$PROJECT_DIR$/docs/bCreator-footer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bCreator.mustache" afterPath="$PROJECT_DIR$/docs/bCreator.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bDiscover-wrapper.mustache" afterPath="$PROJECT_DIR$/docs/bDiscover-wrapper.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bFuturelist.mustache" afterPath="$PROJECT_DIR$/docs/bFuturelist.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bLogo.mustache" afterPath="$PROJECT_DIR$/docs/bLogo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bMulticolor.mustache" afterPath="$PROJECT_DIR$/docs/bMulticolor.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bPoints.mustache" afterPath="$PROJECT_DIR$/docs/bPoints.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bSearch-form.mustache" afterPath="$PROJECT_DIR$/docs/bSearch-form.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bSitemap-small.mustache" afterPath="$PROJECT_DIR$/src/bSitemap-small.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bSitemap.mustache" afterPath="$PROJECT_DIR$/src/bSitemap.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bStats-dashboard.mustache" afterPath="$PROJECT_DIR$/docs/bStats-dashboard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bTop-navigation.mustache" afterPath="$PROJECT_DIR$/docs/bTop-navigation.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bUniversal-button.mustache" afterPath="$PROJECT_DIR$/docs/bUniversal-button.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bVideo.mustache" afterPath="$PROJECT_DIR$/src/bVideo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cBest-video.mustache" afterPath="$PROJECT_DIR$/src/cBest-video.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cFooter-sitemap.mustache" afterPath="$PROJECT_DIR$/src/cFooter-sitemap.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cHeader.mustache" afterPath="$PROJECT_DIR$/docs/cHeader.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cIntro.mustache" afterPath="$PROJECT_DIR$/docs/cIntro.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cTools.mustache" afterPath="$PROJECT_DIR$/docs/cTools.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cVideo-list.mustache" afterPath="$PROJECT_DIR$/src/cVideo-list.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/data.json" afterPath="$PROJECT_DIR$/src/data/data.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/167f9dbd-7f63-46fb-8c3f-d28aeec0a7bb.png" afterPath="$PROJECT_DIR$/docs/images/167f9dbd-7f63-46fb-8c3f-d28aeec0a7bb.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/2000px-Vimeo_Logo-white.png" afterPath="$PROJECT_DIR$/docs/images/2000px-Vimeo_Logo-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/665715143_390x220.png" afterPath="$PROJECT_DIR$/docs/images/665715143_390x220.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/666669193_390x220.png" afterPath="$PROJECT_DIR$/docs/images/666669193_390x220.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/667734745_390x220.png" afterPath="$PROJECT_DIR$/docs/images/667734745_390x220.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/667879628_390x220.png" afterPath="$PROJECT_DIR$/docs/images/667879628_390x220.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/667912675_390x220.png" afterPath="$PROJECT_DIR$/docs/images/667912675_390x220.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Player-icons.png" afterPath="$PROJECT_DIR$/docs/images/Player-icons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Vimeo450.png" afterPath="$PROJECT_DIR$/docs/images/Vimeo450.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/advertising.jpg" afterPath="$PROJECT_DIR$/docs/images/advertising.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/balloon_back.jpg" afterPath="$PROJECT_DIR$/docs/images/balloon_back.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/balloon_front_opt.png" afterPath="$PROJECT_DIR$/docs/images/balloon_front_opt.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/black-gmail-sprite.png" afterPath="$PROJECT_DIR$/docs/images/black-gmail-sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cover.png" afterPath="$PROJECT_DIR$/docs/images/cover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/drop-down-arrow-01-512.png" afterPath="$PROJECT_DIR$/docs/images/drop-down-arrow-01-512.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dune.jpg" afterPath="$PROJECT_DIR$/docs/images/dune.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/images.png" afterPath="$PROJECT_DIR$/docs/images/images.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pancils.jpg" afterPath="$PROJECT_DIR$/docs/images/pancils.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/snow-ass.jpg" afterPath="$PROJECT_DIR$/docs/images/snow-ass.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/vimeo.png" afterPath="$PROJECT_DIR$/docs/images/vimeo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.mustache" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Additional-info.less" afterPath="$PROJECT_DIR$/src/styles/Additional-info.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Best-video.less" afterPath="$PROJECT_DIR$/src/styles/Best-video.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Discover-wrapper.less" afterPath="$PROJECT_DIR$/src/styles/Discover-wrapper.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Footer-sitemap.less" afterPath="$PROJECT_DIR$/src/styles/Footer-sitemap.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Layout.less" afterPath="$PROJECT_DIR$/src/styles/Layout.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Points.less" afterPath="$PROJECT_DIR$/src/styles/Points.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Sitemap-small.less" afterPath="$PROJECT_DIR$/src/styles/Sitemap-small.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Sitemap.less" afterPath="$PROJECT_DIR$/src/styles/Sitemap.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Stats-dashboard.less" afterPath="$PROJECT_DIR$/src/styles/Stats-dashboard.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Tools.less" afterPath="$PROJECT_DIR$/src/styles/Tools.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Universal-button.less" afterPath="$PROJECT_DIR$/src/styles/Universal-button.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Video-list.less" afterPath="$PROJECT_DIR$/src/styles/Video-list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/Video.less" afterPath="$PROJECT_DIR$/src/styles/Video.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bButtonAction.less" afterPath="$PROJECT_DIR$/src/styles/bButtonAction.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bButtons.less" afterPath="$PROJECT_DIR$/src/styles/bButtons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bCreator-footer.less" afterPath="$PROJECT_DIR$/src/styles/bCreator-footer.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bCreator.less" afterPath="$PROJECT_DIR$/src/styles/bCreator.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bFuture-list.less" afterPath="$PROJECT_DIR$/src/styles/bFuture-list.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bLogo.less" afterPath="$PROJECT_DIR$/src/styles/bLogo.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bMulticolor.less" afterPath="$PROJECT_DIR$/src/styles/bMulticolor.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bSearch.less" afterPath="$PROJECT_DIR$/src/styles/bSearch.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/bTop-navigation.less" afterPath="$PROJECT_DIR$/src/styles/bTop-navigation.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/intro.less" afterPath="$PROJECT_DIR$/src/styles/intro.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/styles/style.less" afterPath="$PROJECT_DIR$/src/styles/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,16 +160,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
@@ -60,6 +230,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Yaroslav_Rukavets\Vimeo\src" />
+      <recent name="C:\Yaroslav_Rukavets\Vimeo\src\styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Yaroslav_Rukavets\Vimeo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,23 +266,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518895457570</updated>
-      <workItem from="1518895459380" duration="370000" />
+      <workItem from="1518895459380" duration="5884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370000" />
+    <option name="totallyTimeSpent" value="5884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52093023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31096563" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -117,8 +301,54 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added gulp files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gulp files." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Company-information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cHeader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
